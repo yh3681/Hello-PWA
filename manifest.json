@@ -2,7 +2,7 @@
   "name": "Hello World",
   "short_name": "Hello",
   "icons": [{
-    "src": "images/hello-icon-128.png",
+    "src": "favicon.ico",/*"images/hello-icon-128.png",*/
       "sizes": "128x128",
       "type": "image/png"
     }, {
